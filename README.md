@@ -1,0 +1,1 @@
+this is a own dotfiles to use in i3 and hyprland session * for a ARCH LUNUX *
